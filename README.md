@@ -1,3 +1,3 @@
-# Hellow! My Name is Chanisa Jayawrdhana.
+# Hellow! My Name is Khan.
 
-## I'm a full stack developer from Sri Lanka.
+## and im not a terrorist.
