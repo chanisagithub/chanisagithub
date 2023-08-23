@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=chanisagithub&style=flat&color=blue)
 
-![mario coding](https://media.giphy.com/media/3ohzdEV3YcLy1zV7Yk/giphy.gif)
+![Main Banner](https://media.giphy.com/media/nxMiyZea0AQY8/giphy-downsized-large.gif)
 
 <h1 align="center">Hi!,  I'm Chanisa<img src=
 "https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
