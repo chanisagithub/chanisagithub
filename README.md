@@ -4,7 +4,7 @@
 ![mario coding](https://media.giphy.com/media/3ohzdEV3YcLy1zV7Yk/giphy.gif)
 
 <h1 align="center">Hi!,  I'm Chanisa<img src=
-"" width="35"></h1>
+"https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
