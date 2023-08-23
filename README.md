@@ -7,16 +7,14 @@
 "https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;)](https://git.io/typing-svg)
-
+ 
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 </div>
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- 
  
 <br>
 
