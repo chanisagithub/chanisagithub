@@ -4,13 +4,13 @@
 ![mario coding](https://media.giphy.com/media/3ohzdEV3YcLy1zV7Yk/giphy.gif)
 
 <h1 align="center">Hi!,  I'm Chanisa<img src=
-"https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"></h1>
+"" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;)](https://git.io/typing-svg)
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <br>
 
