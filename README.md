@@ -19,7 +19,9 @@ A passionate software engineering trainee with a hunger for cutting-edge I.T. te
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&theme=dark&hide_border=false&include_all_commits=true&count_private=true")></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&theme=neon&date_format=j%20M%5B%20Y%5D&card_width=600&ring=ECEB32)](https://git.io/streak-stats")></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact")></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chanisagithub&theme=discord&no-frame=false&no-bg=false&margin-w=4)
