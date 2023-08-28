@@ -4,8 +4,7 @@
 <h1 align="center">Hi!,  I'm Chanisa<img src=
 "https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 
-# 🌠 About Me:
-A passionate software engineering trainee with a hunger for cutting-edge I.T. technologies. Committed to mastering code and tackling intricate challenges, I'm all about innovation and elegant solutions.<br>
+<h3>A passionate software engineering trainee with a hunger for cutting-edge I.T. technologies. Committed to mastering code and tackling intricate challenges, I'm all about innovation and elegant solutions.</h3>h1><br>
 
 
 ## 🌐 Socials:
