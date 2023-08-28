@@ -4,6 +4,10 @@
 <h1 align="center">Hi!,  I'm Chanisa<img src=
 "https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 
+<h2>
+👋 Hey there! I'm Chanisa, a passionate software engineering trainee with a hunger for cutting-edge I.T. technologies. Committed to mastering code and tackling intricate challenges, I'm all about innovation and elegant solutions.
+</h2>
+
 <div align="center" style="border: px solid #000000;>
  
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
