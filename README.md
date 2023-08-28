@@ -202,6 +202,6 @@
 
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanisagithub&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&theme=neon&date_format=j%20M%5B%20Y%5D&card_width=600&ring=ECEB32)](https://git.io/streak-stats)
+<p align="center">[![](https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&theme=neon&date_format=j%20M%5B%20Y%5D&card_width=600&ring=ECEB32)](https://git.io/streak-stats)</p>
 
 
