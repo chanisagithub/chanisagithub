@@ -5,8 +5,7 @@
 "https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 
 <h2 align="center">Welcome to my digital playground<h2>
-
-<h3 align="center">Committed to mastering code and tackling intricate challenges.</h3><br>
+<h3 align="center">Committed to mastering code and tackling intricate challenges.</h3>
 
 
 ## 🌐 Socials:
