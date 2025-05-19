@@ -1,5 +1,3 @@
-### ⚡ Code Alchemist | 🚀 Turning Coffee into Features (and Bugs... but we don't talk about those)
-
 <h1 align="center">Hey there, I'm Chanisa! <img src="https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 <h2 align="center">🚀 Welcome to My Digital Playground 🌐</h2>
 <p align="center">
