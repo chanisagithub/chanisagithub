@@ -2,6 +2,9 @@
 
 <h1 align="center">Hey there, I'm Chanisa! <img src="https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
 <h2 align="center">🚀 Welcome to My Digital Playground 🌐</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNvYSUkjZaJriU/giphy.gif" width="300" alt="Matrix Rain"/>
+</p>
 <h3 align="center">💻 Frontend Developer | Full Stack Enthusiast | Problem Solver</h3>
 
 ---
@@ -42,6 +45,13 @@
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=chanisagithub&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+
+---
+
+<h3 align="center">💻 Hack the Planet. Code the Matrix.</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="250" alt="Matrix Code"/>
+</p>
 
 ---
 
