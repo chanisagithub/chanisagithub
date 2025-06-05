@@ -44,9 +44,9 @@
 
 ---
 
-<h3 align="center">💻 Hack the Planet. Code the Matrix.</h3>
+<h3 align="center">If you stare long enough, the code starts to scream 🤯</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="250" alt="Matrix Code"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhpaWxudHJoMHMzdTVxdGJ2Ymx6ZWh3NHk1b3NiY2ltanA3cXBuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xHlfB134kYyf8A/giphy.gif" width="250" alt="Matrix Code"/>
 </p>
 
 ---
