@@ -31,9 +31,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&text_color=39FF14&icon_color=00FF00" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=00FF00&sideLabels=00FF00&dates=39FF14" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&hide_border=true&layout=compact&bg_color=000000&title_color=00FF00&text_color=39FF14" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=ffffff&currStreakNum=00FF00&sideNums=ffffff&sideLabels=00FF00&dates=ffffff" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&hide_border=true&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
