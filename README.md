@@ -30,12 +30,6 @@
 
 ### 📈 GitHub Stats
 
-//<p align="center">
-  //<img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  //<img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&theme=neon&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  //<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
-//</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&text_color=39FF14&icon_color=00FF00" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=00FF00&sideLabels=00FF00&dates=39FF14" alt="GitHub Streak"/>
