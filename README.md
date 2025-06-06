@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ2M2oyaGhpYzZ2Z3JlcjIzMjdnbHVnd3d4MXZwbmQzMXB2N2NkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix Rain"/>
 </p>
-<h3 align="center">💻 Frontend Developer | Full Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Frontend Developer | Tech Enthusiast | Problem Solver</h3>
 
 ---
 
