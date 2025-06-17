@@ -43,6 +43,11 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-user>/<your-repo>/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/<your-user>/<your-repo>/output/github-snake.svg" />
+</picture>
+
 <h3 align="center">If you stare long enough, the code starts to scream 🤯</h3>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhpaWxudHJoMHMzdTVxdGJ2Ymx6ZWh3NHk1b3NiY2ltanA3cXBuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xHlfB134kYyf8A/giphy.gif" width="250" alt="Matrix Code"/>
