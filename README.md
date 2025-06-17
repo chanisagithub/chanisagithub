@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm Chanisa! <img src="https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
-<h2 align="center">🚀 Welcome to My Digital Playground 🌐</h2>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ2M2oyaGhpYzZ2Z3JlcjIzMjdnbHVnd3d4MXZwbmQzMXB2N2NkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix Rain"/>
 </p>
