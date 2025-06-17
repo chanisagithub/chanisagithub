@@ -47,7 +47,7 @@
   <source media="(prefers-color-scheme: dark)"
           srcset="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
   <img alt="GitHub contribution snake"
-       src="https://chanisagithub.github.io/chanisagithub/github-snake.svg" />
+       src="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
 </picture>
 
 <h3 align="center">If you stare long enough, the code starts to scream 🤯</h3>
