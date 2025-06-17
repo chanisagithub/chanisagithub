@@ -44,8 +44,10 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-user>/<your-repo>/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/<your-user>/<your-repo>/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://chanisagithub.github.io/chanisagithub/github-snake.svg" />
 </picture>
 
 <h3 align="center">If you stare long enough, the code starts to scream 🤯</h3>
