@@ -43,6 +43,7 @@
 
 ---
 
+### 📊 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
