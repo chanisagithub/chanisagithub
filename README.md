@@ -1,151 +1,161 @@
-<h1 align="center">Hey there, I'm Chanisa! <img src="https://media.giphy.com/media/xUPGcjk1XAdHqHooI8/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Enthusiast;Building+Amazing+User+Experiences;React+%7C+Vue.js+%7C+React+Native;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yoo!%20%F0%9F%AA%81&fontColor=a855f7&fontSize=70&fontAlignY=55&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanisagithub&label=Profile%20Views&color=00ff00&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chanisagithub?label=Followers&style=plastic&color=00ff00" alt="Followers" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;React+%7C+Node.js+%7C+Cloud+%7C+Mobile;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9F%A3" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ2M2oyaGhpYzZ2Z3JlcjIzMjdnbHVnd3d4MXZwbmQzMXB2N2NkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix Rain"/>
+  <img src="https://komarev.com/ghpvc/?username=chanisagithub&label=Profile%20Views&color=a855f7&style=flat-square&labelColor=0d0d0d" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chanisagithub?label=Followers&style=flat-square&color=a855f7&labelColor=0d0d0d" alt="Followers" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
-### 🌐 Connect with Me:
+## 🧠 About Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chanibuoy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chanisajayawardhana/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cha_ni__________gah___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanisa-jayawardhana/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sadin.chanisa8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5413458) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chani_twitch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chanisasadin)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 🛠️ Skills & Expertise:
-
-<p align="center">
-  
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-90%25-success?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-success?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-80%25-success?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Dart](https://img.shields.io/badge/Dart-70%25-yellow?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-90%25-success?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-![Vue.js](https://img.shields.io/badge/Vue.js-85%25-success?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
-![React Native](https://img.shields.io/badge/React_Native-80%25-success?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-85%25-success?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-85%25-success?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-80%25-success?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
-![Express](https://img.shields.io/badge/Express-75%25-yellow?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
-
-**Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-85%25-success?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-80%25-success?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-75%25-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### �🛠️ Tech Stack:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-
-```
-💻 Languages: Java, JavaScript, Python, Dart
-⚡ Frontend: Vue.js, React, React Native
-🛠️ Backend: Node.js, Spring Boot, Express
-🗄️ Databases: MySQL, MongoDB
-☁️ Cloud: AWS
-🎨 Design: Figma, TailwindCSS
+```typescript
+const chanisa: Developer = {
+  name:        "Chanisa Jayawardhana",
+  role:        "Full Stack Developer",
+  location:    "Sri Lanka 🇱🇰",
+  stack:       ["React", "Vue.js", "Node.js", "Spring Boot", "AWS"],
+  currentlyOn: "Building scalable full stack solutions",
+  interests:   ["UI/UX", "AI Tools", "Open Source", "Cloud Architecture"],
+  funFact:     "I debug with console.log and I'm not ashamed 🟣"
+};
 ```
 
+---
+
+## 🌐 Connect
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="https://linkedin.com/in/chanisa-jayawardhana/"><img src="https://img.shields.io/badge/LinkedIn-a855f7?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/chanisasadin"><img src="https://img.shields.io/badge/Twitter-7c3aed?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://medium.com/@@sadin.chanisa8"><img src="https://img.shields.io/badge/Medium-a855f7?logo=medium&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://stackoverflow.com/users/5413458"><img src="https://img.shields.io/badge/StackOverflow-7c3aed?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.gg/chanibuoy"><img src="https://img.shields.io/badge/Discord-a855f7?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/cha_ni__________gah___/"><img src="https://img.shields.io/badge/Instagram-7c3aed?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://facebook.com/chanisajayawardhana/"><img src="https://img.shields.io/badge/Facebook-a855f7?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-### ⏱️ WakaTime Coding Stats
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chanisawaka&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="WakaTime Stats"/>
+
+**Languages**<br/><br/>
+![Java](https://img.shields.io/badge/Java-a855f7?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-a855f7?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-a855f7?style=for-the-badge&logo=dart&logoColor=white)
+
+<br/>**Frontend**<br/><br/>
+![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-a855f7?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-7c3aed?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-a855f7?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-7c3aed?style=for-the-badge&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-a855f7?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<br/>**Backend**<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-a855f7?style=for-the-badge&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-7c3aed?style=for-the-badge&logo=express&logoColor=white)
+
+<br/>**Database & Cloud**<br/><br/>
+![MySQL](https://img.shields.io/badge/MySQL-a855f7?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7c3aed?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-a855f7?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<br/>**Tools & Design**<br/><br/>
+![Figma](https://img.shields.io/badge/Figma-7c3aed?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-a855f7?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chanisawaka&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="WakaTime Stats"/>
 </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=ffffff&currStreakNum=00FF00&sideNums=ffffff&sideLabels=00FF00&dates=ffffff" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&hide_border=true&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff&currStreakNum=a855f7&sideNums=ffffff&sideLabels=a855f7&dates=888888" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanisagithub&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanisagithub&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chanisagithub&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 📊 Contribution Graph
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
-  <img alt="GitHub contribution snake"
-       src="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
-</picture>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-### 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h3 align="center">If you stare long enough, the code starts to scream 🤯</h3>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhpaWxudHJoMHMzdTVxdGJ2Ymx6ZWh3NHk1b3NiY2ltanA3cXBuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xHlfB134kYyf8A/giphy.gif" width="250" alt="Matrix Code"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanisagithub&theme=midnight_purple" alt="Profile Summary"/>
 </p>
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chanisagithub&theme=discord&no-frame=true&no-bg=false&margin-w=6&row=1" alt="Trophies"/>
+</p>
+
+---
+
+## 📊 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="https://chanisagithub.github.io/chanisagithub/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
+---
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=500&size=28&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Dream+it.+Code+it.+Ship+it.+%E2%9C%A8;Turning+coffee+into+code+since+forever+%E2%98%95;Where+ideas+become+reality+%F0%9F%92%AB" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:sadin.chanisa8@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Create_Magic-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/chanisagithub?tab=repositories">
+    <img src="https://img.shields.io/badge/View_My_Universe-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&animation=twinkling&text=%E2%9C%A8%20Stay%20Curious%2C%20Keep%20Creating%20%E2%9C%A8&fontSize=14&fontColor=ffffff&fontAlignY=75" width="100%"/>
+</p>
