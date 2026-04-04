@@ -118,7 +118,7 @@ const chanisa: Developer = {
 
 ---
 
-## 📊 Contribution Snake
+<!-- ## 📊 Contribution Snake
 
 <p align="center">
   <picture>
@@ -127,7 +127,7 @@ const chanisa: Developer = {
   </picture>
 </p>
 
----
+--- -->
 
 ## 💭 Dev Quote
 
