@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yoo!%20%F0%9F%AA%81&fontColor=a855f7&fontSize=70&fontAlignY=55&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWswd2xueTkwOTEwYnY2a2Jrb2l2NDA0ZnlzOXFieGg3ZXhmMTRqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wz36BqbzNbc6GgTWF8/giphy.gif" alt="Profile GIF" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Yoo!%20%F0%9F%AA%81&fontColor=a855f7&fontSize=70&fontAlignY=55&animation=fadeIn" alt="header" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;React+%7C+Node.js+%7C+Cloud+%7C+Mobile;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9F%A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -85,7 +89,7 @@ const chanisa: Developer = {
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chanisawaka&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chanisawaka&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="WakaTime Stats" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -96,8 +100,8 @@ const chanisa: Developer = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff&currStreakNum=a855f7&sideNums=ffffff&sideLabels=a855f7&dates=888888" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chanisagithub&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanisagithub&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=ffffff&currStreakNum=a855f7&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -140,7 +144,7 @@ const chanisa: Developer = {
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=500&size=28&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Dream+it.+Code+it.+Ship+it.+%E2%9C%A8;Turning+coffee+into+code+since+forever+%E2%98%95;Where+ideas+become+reality+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=500&size=28&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Dream%2C%20Code%2C%20Create%2C%20Repeat!" alt="Closing message" />
 </p>
 
 <p align="center">
@@ -157,5 +161,5 @@ const chanisa: Developer = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&animation=twinkling&text=%E2%9C%A8%20Stay%20Curious%2C%20Keep%20Creating%20%E2%9C%A8&fontSize=14&fontColor=ffffff&fontAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&animation=twinkling&text=%E2%9C%A8%20Stay%20Curious%2C%20Keep%20Creating%20✨&fontSize=20&fontColor=ffffff" alt="Footer" />
 </p>
