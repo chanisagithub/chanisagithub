@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🧠 About Me
+## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%23a855f7&height=26" height="26" align="center" /> About Me
 
 ```typescript
 const chanisa: Developer = {
@@ -38,7 +38,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 🌐 Connect
+## <img src="https://api.iconify.design/mdi:web.svg?color=%23a855f7&height=26" height="26" align="center" /> Connect
 
 <div align="center">
 
@@ -58,7 +58,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23a855f7&height=26" height="26" align="center" /> Tech Stack
 
 <div align="center">
 
@@ -90,7 +90,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 📈 GitHub Stats
+## <img src="https://api.iconify.design/mdi:chart-box.svg?color=%23a855f7&height=26" height="26" align="center" /> GitHub Stats
 
 <div align="center">
 
@@ -110,7 +110,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 📊 Contribution Activity
+## <img src="https://api.iconify.design/mdi:chart-timeline-variant.svg?color=%23a855f7&height=26" height="26" align="center" /> Contribution Activity
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## ⏱️ WakaTime Stats
+## <img src="https://api.iconify.design/mdi:clock-outline.svg?color=%23a855f7&height=26" height="26" align="center" /> WakaTime Stats
 
 <div align="center">
 
@@ -141,7 +141,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 🏆 Trophies
+## <img src="https://api.iconify.design/mdi:trophy.svg?color=%23a855f7&height=26" height="26" align="center" /> Trophies
 
 <div align="center">
 
@@ -155,7 +155,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 🐍 Contribution Snake
+## <img src="https://api.iconify.design/mdi:snake.svg?color=%23a855f7&height=26" height="26" align="center" /> Contribution Snake
 
 <div align="center">
 
@@ -172,7 +172,7 @@ const chanisa: Developer = {
 
 <br/>
 
-## 💭 Dev Quote
+## <img src="https://api.iconify.design/mdi:format-quote-close.svg?color=%23a855f7&height=26" height="26" align="center" /> Dev Quote
 
 <div align="center">
 
