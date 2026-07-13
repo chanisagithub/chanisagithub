@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,100:0d0d0d&height=300&section=header&text=Chanisa%20Jayawardhana&fontColor=a855f7&fontSize=55&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=70&animation=fadeIn" alt="header" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,100:0d0d0d&height=300&section=header&text=Chanisa%20Jayawardhana&fontColor=a855f7&fontSize=55&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=20&descAlignY=70&animation=fadeIn" alt="header" /> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Building+scalable+full+stack+solutions+%F0%9F%9A%80;React+%7C+Vue.js+%7C+Node.js+%7C+Spring+Boot+%7C+AWS;Open+Source+Enthusiast+%7C+UI%2FUX+Lover+%F0%9F%8E%A8;console.log(%22Hello%2C+World!%22)+%F0%9F%9F%A3" alt="Typing SVG" />
 
