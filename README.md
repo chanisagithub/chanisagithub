@@ -21,15 +21,46 @@
 ## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%23a855f7&height=26" height="26" align="center" /> About Me
 
 ```typescript
+console.log(`
+   ██████╗██╗  ██╗ █████╗ ███╗   ██╗██╗███████╗ █████╗ 
+  ██╔════╝██║  ██║██╔══██╗████╗  ██║██║██╔════╝██╔══██╗
+  ██║     ███████║███████║██╔██╗ ██║██║███████╗███████║
+  ██║     ██╔══██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+  ╚██████╗██║  ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+        Full Stack Developer • Sri Lanka 🇱🇰
+`);
+
+type SuperPower = "Turning ☕ into 🚀" | "Debugging via vibes" | "Ctrl+C Ctrl+V Wizardry";
+
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  stack: string[];
+  currentlyOn: string;
+  interests: string[];
+  funFact: string;
+  superPower: SuperPower;
+  motto: string;
+  status: () => string;
+}
+
 const chanisa: Developer = {
   name:        "Chanisa Jayawardhana",
-  role:        "Full Stack Developer",
+  role:        "Full Stack Developer 🧑‍💻",
   location:    "Sri Lanka 🇱🇰",
-  stack:       ["React", "Vue.js", "Node.js", "Spring Boot", "AWS"],
+  stack:       ["React ⚛️", "Vue.js 💚", "Node.js 🟢", "Spring Boot 🍃", "AWS ☁️"],
   currentlyOn: "Building scalable full stack solutions",
-  interests:   ["UI/UX", "AI Tools", "Open Source", "Cloud Architecture"],
-  funFact:     "I debug with console.log and I'm not ashamed 🟣"
+  interests:   ["UI/UX 🎨", "AI Tools 🤖", "Open Source 🌍", "Cloud Architecture 🏗️"],
+  funFact:     "I debug with console.log and I'm not ashamed 🟣",
+  superPower:  "Debugging via vibes",
+  motto:       "It works on my machine — ship it 🚀",
+  status:      () => Math.random() > 0.5 ? "🟢 Coding" : "☕ Recharging",
 };
+
+console.log(`👋 Hey, I'm ${chanisa.name}!`);
+console.log(`${chanisa.status()} from ${chanisa.location}`);
 ```
 
 <br/>
