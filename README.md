@@ -4,7 +4,15 @@
 <div align="center">
 
 <!--START_SECTION:ai-fact-->
-Loading today's AI fact...
+
+### 🧠 AI Insight
+
+> **Category:** LLMs
+
+> Transformers process tokens simultaneously using self-attention instead of sequential recurrence.
+
+_Last Updated: 06 August 2026_
+
 <!--END_SECTION:ai-fact-->
 
 </div>
