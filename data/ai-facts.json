@@ -1,0 +1,1082 @@
+[
+  {
+    "category": "LLMs",
+    "fact": "Transformers process tokens simultaneously using self-attention instead of sequential recurrence."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Gradient descent updates model parameters by moving opposite the gradient of the loss."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "ReLU became popular because it helps reduce the vanishing gradient problem."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "CNNs learn edges before textures and objects."
+  },
+  {
+    "category": "NLP",
+    "fact": "Word embeddings place semantically similar words close together in vector space."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Supervised learning trains models on examples that include known target answers."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Unsupervised learning finds patterns in data without labeled target outputs."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Reinforcement learning trains agents through rewards, penalties, and interaction."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Neural networks learn by adjusting weights across connected layers."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Backpropagation computes how much each weight contributed to prediction error."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Language models predict likely next tokens from patterns learned during training."
+  },
+  {
+    "category": "LLMs",
+    "fact": "A token can be a word, part of a word, punctuation, or whitespace."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Context windows limit how much text a model can consider at one time."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Attention weights help a transformer relate each token to other tokens."
+  },
+  {
+    "category": "NLP",
+    "fact": "Tokenization converts raw text into units that a model can process."
+  },
+  {
+    "category": "NLP",
+    "fact": "Part-of-speech tagging identifies grammatical roles such as nouns and verbs."
+  },
+  {
+    "category": "NLP",
+    "fact": "Named entity recognition detects names of people, places, organizations, and dates."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Image classification assigns a label to an entire image."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Object detection predicts both object categories and bounding boxes."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Image segmentation assigns a class label to individual pixels."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Optical character recognition converts text in images into machine-readable text."
+  },
+  {
+    "category": "Data",
+    "fact": "Training data quality often matters as much as model architecture."
+  },
+  {
+    "category": "Data",
+    "fact": "Label noise can reduce accuracy by teaching a model inconsistent patterns."
+  },
+  {
+    "category": "Data",
+    "fact": "Data leakage occurs when training data contains information from the test target."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "A test set estimates how well a model performs on unseen data."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Validation sets help tune models without touching the final test set."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Accuracy can be misleading when classes are highly imbalanced."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Precision measures how many predicted positives are actually positive."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Recall measures how many actual positives a model successfully finds."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "F1 score balances precision and recall using their harmonic mean."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Overfitting happens when a model memorizes training data instead of generalizing."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Underfitting happens when a model is too simple to capture useful patterns."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Regularization discourages overly complex models that fit noise."
+  },
+  {
+    "category": "Machine Learning",
+    "fact": "Cross-validation estimates performance by training and testing across multiple splits."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Dropout randomly disables units during training to reduce overfitting."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Batch normalization stabilizes training by normalizing layer activations."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Activation functions let neural networks model nonlinear relationships."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Sigmoid activations squeeze values into the range from zero to one."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Softmax converts raw class scores into probabilities that sum to one."
+  },
+  {
+    "category": "Optimization",
+    "fact": "Learning rate controls the size of each training update."
+  },
+  {
+    "category": "Optimization",
+    "fact": "A learning rate that is too high can make training unstable."
+  },
+  {
+    "category": "Optimization",
+    "fact": "A learning rate that is too low can make training unnecessarily slow."
+  },
+  {
+    "category": "Optimization",
+    "fact": "Adam combines momentum and adaptive learning rates for each parameter."
+  },
+  {
+    "category": "Optimization",
+    "fact": "Momentum helps gradient descent keep moving through shallow or noisy regions."
+  },
+  {
+    "category": "Statistics",
+    "fact": "Bias is systematic error from assumptions that are too simple or incorrect."
+  },
+  {
+    "category": "Statistics",
+    "fact": "Variance is sensitivity to small changes in the training data."
+  },
+  {
+    "category": "Statistics",
+    "fact": "The bias-variance tradeoff describes a balance between simplicity and flexibility."
+  },
+  {
+    "category": "Statistics",
+    "fact": "Correlation does not prove that one variable causes another."
+  },
+  {
+    "category": "Statistics",
+    "fact": "Bayesian methods update beliefs using evidence and prior assumptions."
+  },
+  {
+    "category": "Classical AI",
+    "fact": "Rule-based expert systems were an early form of practical artificial intelligence."
+  },
+  {
+    "category": "Classical AI",
+    "fact": "Search algorithms explore possible actions to find a goal state."
+  },
+  {
+    "category": "Classical AI",
+    "fact": "A* search uses both path cost and a heuristic estimate to guide exploration."
+  },
+  {
+    "category": "Classical AI",
+    "fact": "Minimax helps game-playing agents choose moves against optimal opponents."
+  },
+  {
+    "category": "Classical AI",
+    "fact": "Alpha-beta pruning skips game-tree branches that cannot affect the final choice."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "An agent is the decision-maker in a reinforcement learning environment."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "A policy maps observations or states to actions."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "A reward signal tells an agent how good an outcome was."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "Q-learning estimates the value of taking actions in states."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "Exploration lets agents try actions that may improve future rewards."
+  },
+  {
+    "category": "Reinforcement Learning",
+    "fact": "Exploitation uses the best-known action based on current knowledge."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Generative models create new content that resembles their training data."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Diffusion models learn to reverse a gradual noise-adding process."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "GANs train a generator and discriminator in a competitive setup."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Variational autoencoders learn compact latent representations for generation."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Prompt engineering shapes model output by changing instructions and context."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Temperature controls how random a language model's sampling can be."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Lower temperature usually makes generated text more predictable."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Higher temperature can produce more varied but less consistent text."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Top-p sampling chooses from the smallest token set with enough probability mass."
+  },
+  {
+    "category": "LLMs",
+    "fact": "System instructions can define a model's role, constraints, and response style."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Few-shot prompting includes examples to demonstrate the desired pattern."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Zero-shot prompting asks a model to perform a task without examples."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Embeddings represent text, images, or other data as numeric vectors."
+  },
+  {
+    "category": "Embeddings",
+    "fact": "Cosine similarity compares vector direction rather than vector length."
+  },
+  {
+    "category": "Embeddings",
+    "fact": "Vector search retrieves items with embeddings close to a query embedding."
+  },
+  {
+    "category": "Embeddings",
+    "fact": "Semantic search can find related meanings even when exact words differ."
+  },
+  {
+    "category": "Embeddings",
+    "fact": "Clustering embeddings can reveal groups of similar documents or users."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Retrieval-augmented generation gives a model external context before answering."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Chunking splits long documents into smaller pieces for retrieval."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Reranking reorders retrieved results using a second scoring step."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Hybrid search combines keyword matching with vector similarity."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Grounding connects model responses to provided data or sources."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Hallucination is when a model produces unsupported or false information."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Alignment aims to make AI systems follow human goals and constraints."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Red teaming tests systems by actively searching for failures and misuse paths."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Guardrails add checks or constraints around model inputs and outputs."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Human-in-the-loop review keeps people involved in sensitive decisions."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Model cards summarize intended use, limitations, and evaluation results."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Bias in AI can reflect patterns and gaps present in training data."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Fairness metrics can disagree because different definitions optimize different goals."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Explainability helps people understand why a model made a prediction."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Privacy-preserving machine learning reduces exposure of sensitive training data."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Consent and data provenance matter when datasets include personal information."
+  },
+  {
+    "category": "Privacy",
+    "fact": "Differential privacy adds carefully calibrated noise to protect individual records."
+  },
+  {
+    "category": "Privacy",
+    "fact": "Federated learning trains across devices or servers without centralizing raw data."
+  },
+  {
+    "category": "Privacy",
+    "fact": "Membership inference attacks try to determine whether data was in training."
+  },
+  {
+    "category": "Security",
+    "fact": "Prompt injection tries to override instructions by placing commands in input data."
+  },
+  {
+    "category": "Security",
+    "fact": "Adversarial examples are inputs designed to fool a model."
+  },
+  {
+    "category": "Security",
+    "fact": "Data poisoning attacks corrupt training data to influence model behavior."
+  },
+  {
+    "category": "Security",
+    "fact": "Model extraction attacks try to recreate a model by querying it."
+  },
+  {
+    "category": "Security",
+    "fact": "Rate limits can reduce automated abuse of AI services."
+  },
+  {
+    "category": "MLOps",
+    "fact": "MLOps applies software engineering practices to machine learning systems."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Model monitoring tracks performance after deployment."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Data drift occurs when production data changes from training data."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Concept drift occurs when the relationship between inputs and outputs changes."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Feature stores manage reusable machine learning features for training and serving."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Model registries track versions, metadata, and deployment status."
+  },
+  {
+    "category": "MLOps",
+    "fact": "A/B tests compare model variants using live traffic or users."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Canary deployments expose a new model to a small traffic slice first."
+  },
+  {
+    "category": "Data",
+    "fact": "Feature engineering transforms raw data into model-friendly inputs."
+  },
+  {
+    "category": "Data",
+    "fact": "Categorical features often need encoding before many models can use them."
+  },
+  {
+    "category": "Data",
+    "fact": "Normalization rescales values to make numeric features easier to compare."
+  },
+  {
+    "category": "Data",
+    "fact": "Missing values can be imputed, modeled directly, or excluded depending on context."
+  },
+  {
+    "category": "Data",
+    "fact": "Class imbalance can cause models to ignore rare but important outcomes."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Decision trees split data using feature rules that improve prediction purity."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Random forests combine many decision trees to improve generalization."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Gradient boosted trees build trees sequentially to correct earlier mistakes."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Support vector machines seek a boundary with the widest class margin."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "K-nearest neighbors predicts using the labels of nearby training examples."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Naive Bayes applies Bayes' theorem with simplified independence assumptions."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Linear regression models a continuous target as a weighted sum of features."
+  },
+  {
+    "category": "Algorithms",
+    "fact": "Logistic regression estimates probabilities for classification tasks."
+  },
+  {
+    "category": "Clustering",
+    "fact": "K-means groups points by assigning them to nearby centroids."
+  },
+  {
+    "category": "Clustering",
+    "fact": "Hierarchical clustering builds nested groups of similar data points."
+  },
+  {
+    "category": "Clustering",
+    "fact": "DBSCAN can find clusters with irregular shapes and mark outliers."
+  },
+  {
+    "category": "Dimensionality Reduction",
+    "fact": "PCA projects data onto directions that explain the most variance."
+  },
+  {
+    "category": "Dimensionality Reduction",
+    "fact": "t-SNE is often used to visualize high-dimensional data in two dimensions."
+  },
+  {
+    "category": "Dimensionality Reduction",
+    "fact": "UMAP is a technique for visualizing and reducing high-dimensional data."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Convolution filters slide across images to detect local patterns."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Pooling layers reduce spatial size while preserving important visual signals."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Vision transformers apply transformer ideas to image patches."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Face recognition systems compare learned representations of facial features."
+  },
+  {
+    "category": "Computer Vision",
+    "fact": "Pose estimation predicts key body points such as elbows, knees, and shoulders."
+  },
+  {
+    "category": "Speech AI",
+    "fact": "Automatic speech recognition converts spoken audio into text."
+  },
+  {
+    "category": "Speech AI",
+    "fact": "Text-to-speech systems synthesize spoken audio from written text."
+  },
+  {
+    "category": "Speech AI",
+    "fact": "Speaker diarization identifies who spoke when in an audio recording."
+  },
+  {
+    "category": "Speech AI",
+    "fact": "Wake word detection listens for a short phrase before activating an assistant."
+  },
+  {
+    "category": "Robotics",
+    "fact": "Robots use perception, planning, and control to act in physical environments."
+  },
+  {
+    "category": "Robotics",
+    "fact": "Simultaneous localization and mapping helps robots build maps while tracking position."
+  },
+  {
+    "category": "Robotics",
+    "fact": "Path planning finds a route from a start point to a goal."
+  },
+  {
+    "category": "Robotics",
+    "fact": "Computer vision helps robots identify objects, obstacles, and locations."
+  },
+  {
+    "category": "Autonomous Systems",
+    "fact": "Autonomous vehicles combine sensors, prediction, planning, and control."
+  },
+  {
+    "category": "Autonomous Systems",
+    "fact": "Sensor fusion combines data from multiple sensors into a single estimate."
+  },
+  {
+    "category": "Autonomous Systems",
+    "fact": "Lidar measures distance by timing reflected laser pulses."
+  },
+  {
+    "category": "Autonomous Systems",
+    "fact": "Control systems turn planned actions into steering, braking, or movement commands."
+  },
+  {
+    "category": "Knowledge",
+    "fact": "Knowledge graphs represent entities and relationships as connected nodes and edges."
+  },
+  {
+    "category": "Knowledge",
+    "fact": "Ontologies define concepts and relationships in a domain."
+  },
+  {
+    "category": "Knowledge",
+    "fact": "Reasoning systems can infer new facts from stored rules and relationships."
+  },
+  {
+    "category": "Multimodal AI",
+    "fact": "Multimodal models process more than one data type, such as text and images."
+  },
+  {
+    "category": "Multimodal AI",
+    "fact": "Image captioning generates natural language descriptions of images."
+  },
+  {
+    "category": "Multimodal AI",
+    "fact": "Visual question answering combines image understanding with language reasoning."
+  },
+  {
+    "category": "Multimodal AI",
+    "fact": "Audio-language models can connect speech, sound events, and text."
+  },
+  {
+    "category": "Transfer Learning",
+    "fact": "Transfer learning reuses knowledge from one task to improve another."
+  },
+  {
+    "category": "Transfer Learning",
+    "fact": "Fine-tuning adapts a pretrained model to a specific task or domain."
+  },
+  {
+    "category": "Transfer Learning",
+    "fact": "Feature extraction uses a pretrained model to create inputs for another model."
+  },
+  {
+    "category": "Transfer Learning",
+    "fact": "Pretraining on broad data can reduce the amount of task-specific data needed."
+  },
+  {
+    "category": "Training",
+    "fact": "Epochs count how many times training has passed through the dataset."
+  },
+  {
+    "category": "Training",
+    "fact": "Batch size controls how many examples are processed before a weight update."
+  },
+  {
+    "category": "Training",
+    "fact": "Loss functions measure the gap between predictions and target values."
+  },
+  {
+    "category": "Training",
+    "fact": "Checkpoints save model state so training or deployment can resume later."
+  },
+  {
+    "category": "Training",
+    "fact": "Early stopping halts training when validation performance stops improving."
+  },
+  {
+    "category": "Hardware",
+    "fact": "GPUs accelerate many AI workloads through parallel matrix operations."
+  },
+  {
+    "category": "Hardware",
+    "fact": "TPUs are specialized processors designed for machine learning workloads."
+  },
+  {
+    "category": "Hardware",
+    "fact": "Memory bandwidth can limit how fast large models run."
+  },
+  {
+    "category": "Hardware",
+    "fact": "Quantization can reduce model size by storing weights with fewer bits."
+  },
+  {
+    "category": "Hardware",
+    "fact": "Pruning removes less important model weights or connections."
+  },
+  {
+    "category": "Efficiency",
+    "fact": "Distillation trains a smaller model to mimic a larger model."
+  },
+  {
+    "category": "Efficiency",
+    "fact": "Sparse models activate only part of a network for some inputs."
+  },
+  {
+    "category": "Efficiency",
+    "fact": "Caching can speed up repeated model calls with shared context or results."
+  },
+  {
+    "category": "Efficiency",
+    "fact": "Batching multiple requests can improve hardware utilization during inference."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Instruction tuning trains models to follow human-written task instructions."
+  },
+  {
+    "category": "LLMs",
+    "fact": "RLHF uses human preference feedback to improve model behavior."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Chain-of-thought prompting can encourage intermediate reasoning steps."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Tool calling lets a model request external functions for tasks it cannot do alone."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Function schemas help models produce structured tool arguments."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Structured outputs constrain responses to formats such as JSON."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Stop sequences tell text generation where to end."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Perplexity measures how surprised a language model is by text."
+  },
+  {
+    "category": "NLP",
+    "fact": "Machine translation automatically converts text from one language to another."
+  },
+  {
+    "category": "NLP",
+    "fact": "Sentiment analysis estimates the emotional polarity of text."
+  },
+  {
+    "category": "NLP",
+    "fact": "Text summarization condenses longer documents into shorter versions."
+  },
+  {
+    "category": "NLP",
+    "fact": "Stemming reduces words to rough root forms."
+  },
+  {
+    "category": "NLP",
+    "fact": "Lemmatization converts words to dictionary base forms."
+  },
+  {
+    "category": "NLP",
+    "fact": "Dependency parsing analyzes grammatical relationships between words."
+  },
+  {
+    "category": "Time Series",
+    "fact": "Time-series forecasting predicts future values from ordered past observations."
+  },
+  {
+    "category": "Time Series",
+    "fact": "Seasonality is a repeating pattern at regular time intervals."
+  },
+  {
+    "category": "Time Series",
+    "fact": "Anomaly detection identifies unusual patterns that differ from expected behavior."
+  },
+  {
+    "category": "Recommendation",
+    "fact": "Recommendation systems predict items a user may find relevant."
+  },
+  {
+    "category": "Recommendation",
+    "fact": "Collaborative filtering uses patterns from similar users or items."
+  },
+  {
+    "category": "Recommendation",
+    "fact": "Content-based recommendation compares item features with user preferences."
+  },
+  {
+    "category": "Recommendation",
+    "fact": "Cold start problems happen when there is little data about new users or items."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Confusion matrices show correct and incorrect predictions by class."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "ROC curves compare true positive rates and false positive rates."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Calibration measures whether predicted probabilities match real outcome frequencies."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Offline evaluation may not fully predict production performance."
+  },
+  {
+    "category": "AI History",
+    "fact": "Alan Turing proposed a famous test of machine intelligence in 1950."
+  },
+  {
+    "category": "AI History",
+    "fact": "The term artificial intelligence was popularized during the 1956 Dartmouth workshop."
+  },
+  {
+    "category": "AI History",
+    "fact": "Perceptrons were early neural networks used for simple pattern classification."
+  },
+  {
+    "category": "AI History",
+    "fact": "AI winters were periods of reduced funding and optimism in artificial intelligence."
+  },
+  {
+    "category": "AI History",
+    "fact": "Backpropagation helped renew interest in neural networks during the 1980s."
+  },
+  {
+    "category": "Agents",
+    "fact": "AI agents combine models with goals, memory, tools, or action loops."
+  },
+  {
+    "category": "Agents",
+    "fact": "Planning lets agents break larger goals into smaller steps."
+  },
+  {
+    "category": "Agents",
+    "fact": "Memory systems can help agents reuse information across interactions."
+  },
+  {
+    "category": "Agents",
+    "fact": "Tool use can let agents search, calculate, call APIs, or modify files."
+  },
+  {
+    "category": "Agents",
+    "fact": "Agent evaluation often checks both final answers and intermediate actions."
+  },
+  {
+    "category": "Human-AI Interaction",
+    "fact": "Good AI interfaces make uncertainty and limitations visible to users."
+  },
+  {
+    "category": "Human-AI Interaction",
+    "fact": "User feedback can improve prompts, retrieval, evaluations, and training data."
+  },
+  {
+    "category": "Human-AI Interaction",
+    "fact": "Autocomplete systems balance helpful suggestions with user control."
+  },
+  {
+    "category": "Human-AI Interaction",
+    "fact": "Explanations are more useful when they match the user's decision context."
+  },
+  {
+    "category": "Healthcare AI",
+    "fact": "Medical AI systems require careful validation before clinical use."
+  },
+  {
+    "category": "Healthcare AI",
+    "fact": "AI can help detect patterns in medical images such as X-rays and scans."
+  },
+  {
+    "category": "Healthcare AI",
+    "fact": "Clinical decision support should assist clinicians rather than replace judgment."
+  },
+  {
+    "category": "Finance AI",
+    "fact": "Fraud detection models look for unusual transaction patterns."
+  },
+  {
+    "category": "Finance AI",
+    "fact": "Credit scoring models must be monitored for fairness and regulatory compliance."
+  },
+  {
+    "category": "Finance AI",
+    "fact": "Algorithmic trading systems can react to market signals faster than humans."
+  },
+  {
+    "category": "Education AI",
+    "fact": "AI tutors can adapt practice problems to a learner's progress."
+  },
+  {
+    "category": "Education AI",
+    "fact": "Automated grading works best when rubrics are clear and outputs are reviewed."
+  },
+  {
+    "category": "Science AI",
+    "fact": "AI can help search large scientific datasets for useful patterns."
+  },
+  {
+    "category": "Science AI",
+    "fact": "Protein structure prediction is a major application of deep learning in biology."
+  },
+  {
+    "category": "Science AI",
+    "fact": "Surrogate models approximate expensive simulations to speed up research."
+  },
+  {
+    "category": "Creative AI",
+    "fact": "Style transfer can apply the visual style of one image to another."
+  },
+  {
+    "category": "Creative AI",
+    "fact": "Music generation models learn patterns in melody, rhythm, and harmony."
+  },
+  {
+    "category": "Creative AI",
+    "fact": "AI writing tools can draft, rewrite, summarize, or adapt tone."
+  },
+  {
+    "category": "Creative AI",
+    "fact": "Generative tools still need human direction for taste, goals, and context."
+  },
+  {
+    "category": "Deployment",
+    "fact": "Inference is the process of using a trained model to make predictions."
+  },
+  {
+    "category": "Deployment",
+    "fact": "Latency measures how long a model takes to return a result."
+  },
+  {
+    "category": "Deployment",
+    "fact": "Throughput measures how many requests a system can process over time."
+  },
+  {
+    "category": "Deployment",
+    "fact": "Edge AI runs models on local devices instead of remote servers."
+  },
+  {
+    "category": "Deployment",
+    "fact": "Serverless deployment can scale inference workloads based on demand."
+  },
+  {
+    "category": "Data",
+    "fact": "Synthetic data is artificially generated data used for training or testing."
+  },
+  {
+    "category": "Data",
+    "fact": "Data augmentation creates modified examples to improve model robustness."
+  },
+  {
+    "category": "Data",
+    "fact": "Image augmentation can include crops, flips, rotations, and color changes."
+  },
+  {
+    "category": "Data",
+    "fact": "Text augmentation can include paraphrasing, masking, or synonym replacement."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Autoencoders learn to compress data and reconstruct it."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Recurrent neural networks process sequences by carrying hidden state forward."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "LSTMs were designed to better preserve information over long sequences."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Residual connections help very deep networks train more reliably."
+  },
+  {
+    "category": "Deep Learning",
+    "fact": "Attention mechanisms let models focus on relevant parts of an input."
+  },
+  {
+    "category": "Mathematics",
+    "fact": "Matrix multiplication is a core operation in many neural network layers."
+  },
+  {
+    "category": "Mathematics",
+    "fact": "Vectors represent ordered numeric values such as features or embeddings."
+  },
+  {
+    "category": "Mathematics",
+    "fact": "Gradients point in the direction of steepest increase for a function."
+  },
+  {
+    "category": "Mathematics",
+    "fact": "Probability distributions describe how likely different outcomes are."
+  },
+  {
+    "category": "Mathematics",
+    "fact": "Entropy measures uncertainty in a probability distribution."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Uncertainty estimation helps users know when a model may be unreliable."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Out-of-distribution inputs differ meaningfully from the data a model saw before."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Fallback behavior defines what a system should do when confidence is low."
+  },
+  {
+    "category": "AI Safety",
+    "fact": "Evaluation datasets should include difficult edge cases, not only common examples."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Transparency helps users understand when they are interacting with AI."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Accountability means people and organizations remain responsible for AI outcomes."
+  },
+  {
+    "category": "AI Ethics",
+    "fact": "Accessibility can improve when AI tools support translation, captions, and assistance."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Benchmark results are most useful when task design matches real use cases."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Human evaluation can capture qualities that automatic metrics miss."
+  },
+  {
+    "category": "Evaluation",
+    "fact": "Regression tests help catch model behavior changes after updates."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Reproducible training requires tracking code, data, parameters, and environment."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Experiment tracking records metrics and settings across model runs."
+  },
+  {
+    "category": "MLOps",
+    "fact": "Rollback plans help teams recover when a deployed model performs poorly."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Latent spaces organize compressed representations that models can sample or edit."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Inpainting fills missing or selected regions of an image."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Outpainting extends an image beyond its original borders."
+  },
+  {
+    "category": "Generative AI",
+    "fact": "Classifier-free guidance can steer diffusion model outputs toward a prompt."
+  },
+  {
+    "category": "LLMs",
+    "fact": "A model's parameters store learned statistical patterns from training."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Larger models can learn more patterns but often cost more to run."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Small language models can be useful when speed, cost, or privacy matters."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Domain adaptation can improve performance on specialized language and tasks."
+  },
+  {
+    "category": "LLMs",
+    "fact": "Evaluation prompts should be separated from prompts used during development."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Source citations help users inspect evidence behind generated answers."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Fresh retrieval can reduce reliance on stale model knowledge."
+  },
+  {
+    "category": "Retrieval",
+    "fact": "Poor document chunking can hide relevant context from a retriever."
+  },
+  {
+    "category": "Security",
+    "fact": "Least-privilege tool access limits what an AI system can do if misused."
+  },
+  {
+    "category": "Security",
+    "fact": "Output filtering can catch some unsafe content before it reaches users."
+  }
+]
