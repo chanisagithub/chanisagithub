@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** LLMs
+> **Category:** Machine Learning
 
-> Transformers process tokens simultaneously using self-attention instead of sequential recurrence.
+> Gradient descent updates model parameters by moving opposite the gradient of the loss.
 
-_Last Updated: 06 August 2026_
+_Last Updated: 07 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
