@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Machine Learning
+> **Category:** Deep Learning
 
-> Gradient descent updates model parameters by moving opposite the gradient of the loss.
+> ReLU became popular because it helps reduce the vanishing gradient problem.
 
-_Last Updated: 07 August 2026_
+_Last Updated: 08 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
