@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Deep Learning
+> **Category:** Computer Vision
 
-> ReLU became popular because it helps reduce the vanishing gradient problem.
+> CNNs learn edges before textures and objects.
 
-_Last Updated: 08 August 2026_
+_Last Updated: 09 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
