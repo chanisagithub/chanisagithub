@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Computer Vision
+> **Category:** NLP
 
-> CNNs learn edges before textures and objects.
+> Word embeddings place semantically similar words close together in vector space.
 
-_Last Updated: 09 August 2026_
+_Last Updated: 10 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
