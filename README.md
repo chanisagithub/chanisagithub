@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** NLP
+> **Category:** Machine Learning
 
-> Word embeddings place semantically similar words close together in vector space.
+> Supervised learning trains models on examples that include known target answers.
 
-_Last Updated: 10 August 2026_
+_Last Updated: 11 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
