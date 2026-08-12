@@ -9,9 +9,9 @@
 
 > **Category:** Machine Learning
 
-> Supervised learning trains models on examples that include known target answers.
+> Unsupervised learning finds patterns in data without labeled target outputs.
 
-_Last Updated: 11 August 2026_
+_Last Updated: 12 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
