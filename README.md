@@ -9,9 +9,9 @@
 
 > **Category:** Machine Learning
 
-> Unsupervised learning finds patterns in data without labeled target outputs.
+> Reinforcement learning trains agents through rewards, penalties, and interaction.
 
-_Last Updated: 12 August 2026_
+_Last Updated: 13 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
