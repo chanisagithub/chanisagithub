@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Machine Learning
+> **Category:** Deep Learning
 
-> Reinforcement learning trains agents through rewards, penalties, and interaction.
+> Neural networks learn by adjusting weights across connected layers.
 
-_Last Updated: 13 August 2026_
+_Last Updated: 14 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
