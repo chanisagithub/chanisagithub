@@ -9,9 +9,9 @@
 
 > **Category:** Deep Learning
 
-> Neural networks learn by adjusting weights across connected layers.
+> Backpropagation computes how much each weight contributed to prediction error.
 
-_Last Updated: 14 August 2026_
+_Last Updated: 15 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
