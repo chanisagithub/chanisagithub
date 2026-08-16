@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Deep Learning
+> **Category:** LLMs
 
-> Backpropagation computes how much each weight contributed to prediction error.
+> Language models predict likely next tokens from patterns learned during training.
 
-_Last Updated: 15 August 2026_
+_Last Updated: 16 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
