@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Language models predict likely next tokens from patterns learned during training.
+> A token can be a word, part of a word, punctuation, or whitespace.
 
-_Last Updated: 16 August 2026_
+_Last Updated: 17 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
