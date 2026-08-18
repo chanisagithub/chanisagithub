@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> A token can be a word, part of a word, punctuation, or whitespace.
+> Context windows limit how much text a model can consider at one time.
 
-_Last Updated: 17 August 2026_
+_Last Updated: 18 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
