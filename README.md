@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Context windows limit how much text a model can consider at one time.
+> Attention weights help a transformer relate each token to other tokens.
 
-_Last Updated: 18 August 2026_
+_Last Updated: 19 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
