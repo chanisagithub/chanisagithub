@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** LLMs
+> **Category:** NLP
 
-> Attention weights help a transformer relate each token to other tokens.
+> Tokenization converts raw text into units that a model can process.
 
-_Last Updated: 19 August 2026_
+_Last Updated: 20 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
