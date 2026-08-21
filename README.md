@@ -9,9 +9,9 @@
 
 > **Category:** NLP
 
-> Tokenization converts raw text into units that a model can process.
+> Part-of-speech tagging identifies grammatical roles such as nouns and verbs.
 
-_Last Updated: 20 August 2026_
+_Last Updated: 21 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
