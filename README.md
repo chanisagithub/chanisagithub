@@ -9,9 +9,9 @@
 
 > **Category:** NLP
 
-> Part-of-speech tagging identifies grammatical roles such as nouns and verbs.
+> Named entity recognition detects names of people, places, organizations, and dates.
 
-_Last Updated: 21 August 2026_
+_Last Updated: 22 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
