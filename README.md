@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** NLP
+> **Category:** Computer Vision
 
-> Named entity recognition detects names of people, places, organizations, and dates.
+> Image classification assigns a label to an entire image.
 
-_Last Updated: 22 August 2026_
+_Last Updated: 23 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
