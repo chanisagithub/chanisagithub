@@ -9,9 +9,9 @@
 
 > **Category:** Computer Vision
 
-> Object detection predicts both object categories and bounding boxes.
+> Image segmentation assigns a class label to individual pixels.
 
-_Last Updated: 24 August 2026_
+_Last Updated: 25 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
