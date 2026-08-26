@@ -9,9 +9,9 @@
 
 > **Category:** Computer Vision
 
-> Image segmentation assigns a class label to individual pixels.
+> Optical character recognition converts text in images into machine-readable text.
 
-_Last Updated: 25 August 2026_
+_Last Updated: 26 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
