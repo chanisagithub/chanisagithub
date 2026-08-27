@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Computer Vision
+> **Category:** Data
 
-> Optical character recognition converts text in images into machine-readable text.
+> Training data quality often matters as much as model architecture.
 
-_Last Updated: 26 August 2026_
+_Last Updated: 27 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
