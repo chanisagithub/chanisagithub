@@ -9,9 +9,9 @@
 
 > **Category:** Data
 
-> Training data quality often matters as much as model architecture.
+> Label noise can reduce accuracy by teaching a model inconsistent patterns.
 
-_Last Updated: 27 August 2026_
+_Last Updated: 28 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
