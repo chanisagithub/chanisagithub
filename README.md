@@ -9,9 +9,9 @@
 
 > **Category:** Data
 
-> Label noise can reduce accuracy by teaching a model inconsistent patterns.
+> Data leakage occurs when training data contains information from the test target.
 
-_Last Updated: 28 August 2026_
+_Last Updated: 29 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
