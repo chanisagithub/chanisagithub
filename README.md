@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Data
+> **Category:** Evaluation
 
-> Data leakage occurs when training data contains information from the test target.
+> A test set estimates how well a model performs on unseen data.
 
-_Last Updated: 29 August 2026_
+_Last Updated: 30 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
