@@ -9,9 +9,9 @@
 
 > **Category:** Evaluation
 
-> A test set estimates how well a model performs on unseen data.
+> Validation sets help tune models without touching the final test set.
 
-_Last Updated: 30 August 2026_
+_Last Updated: 31 August 2026_
 
 <!--END_SECTION:ai-fact-->
 
