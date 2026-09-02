@@ -9,9 +9,9 @@
 
 > **Category:** Evaluation
 
-> Accuracy can be misleading when classes are highly imbalanced.
+> Precision measures how many predicted positives are actually positive.
 
-_Last Updated: 01 September 2026_
+_Last Updated: 02 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
