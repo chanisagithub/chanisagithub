@@ -172,15 +172,6 @@ console.log(`${chanisa.status()} from ${chanisa.location}`);
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" alt="divider" />
 
-<br/>
-
-## <img src="https://api.iconify.design/mdi:clock-outline.svg?color=%23a855f7&height=26" height="26" align="center" /> WakaTime Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" alt="divider" />
 
 <br/>
 
