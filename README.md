@@ -178,13 +178,6 @@ console.log(`${chanisa.status()} from ${chanisa.location}`);
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chanisawaka&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=7c3aed" alt="WakaTime Stats" />
-
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" alt="divider" />
