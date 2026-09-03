@@ -9,9 +9,9 @@
 
 > **Category:** Evaluation
 
-> Precision measures how many predicted positives are actually positive.
+> Recall measures how many actual positives a model successfully finds.
 
-_Last Updated: 02 September 2026_
+_Last Updated: 03 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
