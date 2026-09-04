@@ -9,9 +9,9 @@
 
 > **Category:** Evaluation
 
-> Recall measures how many actual positives a model successfully finds.
+> F1 score balances precision and recall using their harmonic mean.
 
-_Last Updated: 03 September 2026_
+_Last Updated: 04 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
