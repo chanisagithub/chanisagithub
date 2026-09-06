@@ -9,9 +9,9 @@
 
 > **Category:** Machine Learning
 
-> Overfitting happens when a model memorizes training data instead of generalizing.
+> Underfitting happens when a model is too simple to capture useful patterns.
 
-_Last Updated: 05 September 2026_
+_Last Updated: 06 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
