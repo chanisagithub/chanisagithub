@@ -9,9 +9,9 @@
 
 > **Category:** Machine Learning
 
-> Underfitting happens when a model is too simple to capture useful patterns.
+> Regularization discourages overly complex models that fit noise.
 
-_Last Updated: 06 September 2026_
+_Last Updated: 07 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
