@@ -9,9 +9,9 @@
 
 > **Category:** Machine Learning
 
-> Regularization discourages overly complex models that fit noise.
+> Cross-validation estimates performance by training and testing across multiple splits.
 
-_Last Updated: 07 September 2026_
+_Last Updated: 08 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
