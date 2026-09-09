@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Machine Learning
+> **Category:** Deep Learning
 
-> Cross-validation estimates performance by training and testing across multiple splits.
+> Dropout randomly disables units during training to reduce overfitting.
 
-_Last Updated: 08 September 2026_
+_Last Updated: 09 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
