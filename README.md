@@ -9,9 +9,9 @@
 
 > **Category:** Deep Learning
 
-> Dropout randomly disables units during training to reduce overfitting.
+> Batch normalization stabilizes training by normalizing layer activations.
 
-_Last Updated: 09 September 2026_
+_Last Updated: 10 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
