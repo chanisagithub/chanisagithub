@@ -9,9 +9,9 @@
 
 > **Category:** Deep Learning
 
-> Batch normalization stabilizes training by normalizing layer activations.
+> Activation functions let neural networks model nonlinear relationships.
 
-_Last Updated: 10 September 2026_
+_Last Updated: 11 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
