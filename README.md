@@ -9,9 +9,9 @@
 
 > **Category:** Deep Learning
 
-> Activation functions let neural networks model nonlinear relationships.
+> Sigmoid activations squeeze values into the range from zero to one.
 
-_Last Updated: 11 September 2026_
+_Last Updated: 12 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
