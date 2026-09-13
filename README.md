@@ -9,9 +9,9 @@
 
 > **Category:** Deep Learning
 
-> Sigmoid activations squeeze values into the range from zero to one.
+> Softmax converts raw class scores into probabilities that sum to one.
 
-_Last Updated: 12 September 2026_
+_Last Updated: 13 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
