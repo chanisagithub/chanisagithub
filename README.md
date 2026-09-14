@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Deep Learning
+> **Category:** Optimization
 
-> Softmax converts raw class scores into probabilities that sum to one.
+> Learning rate controls the size of each training update.
 
-_Last Updated: 13 September 2026_
+_Last Updated: 14 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
