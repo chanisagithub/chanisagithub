@@ -9,9 +9,9 @@
 
 > **Category:** Optimization
 
-> Learning rate controls the size of each training update.
+> A learning rate that is too high can make training unstable.
 
-_Last Updated: 14 September 2026_
+_Last Updated: 15 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
