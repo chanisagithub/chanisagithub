@@ -9,9 +9,9 @@
 
 > **Category:** Optimization
 
-> A learning rate that is too high can make training unstable.
+> A learning rate that is too low can make training unnecessarily slow.
 
-_Last Updated: 15 September 2026_
+_Last Updated: 16 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
