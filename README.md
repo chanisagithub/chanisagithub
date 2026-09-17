@@ -9,9 +9,9 @@
 
 > **Category:** Optimization
 
-> A learning rate that is too low can make training unnecessarily slow.
+> Adam combines momentum and adaptive learning rates for each parameter.
 
-_Last Updated: 16 September 2026_
+_Last Updated: 17 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
