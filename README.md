@@ -9,9 +9,9 @@
 
 > **Category:** Optimization
 
-> Adam combines momentum and adaptive learning rates for each parameter.
+> Momentum helps gradient descent keep moving through shallow or noisy regions.
 
-_Last Updated: 17 September 2026_
+_Last Updated: 18 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
