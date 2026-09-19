@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Optimization
+> **Category:** Statistics
 
-> Momentum helps gradient descent keep moving through shallow or noisy regions.
+> Bias is systematic error from assumptions that are too simple or incorrect.
 
-_Last Updated: 18 September 2026_
+_Last Updated: 19 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
