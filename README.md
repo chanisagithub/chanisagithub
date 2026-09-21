@@ -9,9 +9,9 @@
 
 > **Category:** Statistics
 
-> Variance is sensitivity to small changes in the training data.
+> The bias-variance tradeoff describes a balance between simplicity and flexibility.
 
-_Last Updated: 20 September 2026_
+_Last Updated: 21 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
