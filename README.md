@@ -9,9 +9,9 @@
 
 > **Category:** Statistics
 
-> The bias-variance tradeoff describes a balance between simplicity and flexibility.
+> Correlation does not prove that one variable causes another.
 
-_Last Updated: 21 September 2026_
+_Last Updated: 22 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
