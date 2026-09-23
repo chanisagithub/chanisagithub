@@ -9,9 +9,9 @@
 
 > **Category:** Statistics
 
-> Correlation does not prove that one variable causes another.
+> Bayesian methods update beliefs using evidence and prior assumptions.
 
-_Last Updated: 22 September 2026_
+_Last Updated: 23 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
