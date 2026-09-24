@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Statistics
+> **Category:** Classical AI
 
-> Bayesian methods update beliefs using evidence and prior assumptions.
+> Rule-based expert systems were an early form of practical artificial intelligence.
 
-_Last Updated: 23 September 2026_
+_Last Updated: 24 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
