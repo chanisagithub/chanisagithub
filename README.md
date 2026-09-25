@@ -9,9 +9,9 @@
 
 > **Category:** Classical AI
 
-> Rule-based expert systems were an early form of practical artificial intelligence.
+> Search algorithms explore possible actions to find a goal state.
 
-_Last Updated: 24 September 2026_
+_Last Updated: 25 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
