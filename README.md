@@ -9,9 +9,9 @@
 
 > **Category:** Classical AI
 
-> Search algorithms explore possible actions to find a goal state.
+> A* search uses both path cost and a heuristic estimate to guide exploration.
 
-_Last Updated: 25 September 2026_
+_Last Updated: 26 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
