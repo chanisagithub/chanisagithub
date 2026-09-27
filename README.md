@@ -9,9 +9,9 @@
 
 > **Category:** Classical AI
 
-> A* search uses both path cost and a heuristic estimate to guide exploration.
+> Minimax helps game-playing agents choose moves against optimal opponents.
 
-_Last Updated: 26 September 2026_
+_Last Updated: 27 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
