@@ -9,9 +9,9 @@
 
 > **Category:** Classical AI
 
-> Minimax helps game-playing agents choose moves against optimal opponents.
+> Alpha-beta pruning skips game-tree branches that cannot affect the final choice.
 
-_Last Updated: 27 September 2026_
+_Last Updated: 28 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
