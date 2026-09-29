@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Classical AI
+> **Category:** Reinforcement Learning
 
-> Alpha-beta pruning skips game-tree branches that cannot affect the final choice.
+> An agent is the decision-maker in a reinforcement learning environment.
 
-_Last Updated: 28 September 2026_
+_Last Updated: 29 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
