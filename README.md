@@ -9,9 +9,9 @@
 
 > **Category:** Reinforcement Learning
 
-> An agent is the decision-maker in a reinforcement learning environment.
+> A policy maps observations or states to actions.
 
-_Last Updated: 29 September 2026_
+_Last Updated: 30 September 2026_
 
 <!--END_SECTION:ai-fact-->
 
