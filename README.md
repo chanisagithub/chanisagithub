@@ -9,9 +9,9 @@
 
 > **Category:** Reinforcement Learning
 
-> A policy maps observations or states to actions.
+> A reward signal tells an agent how good an outcome was.
 
-_Last Updated: 30 September 2026_
+_Last Updated: 01 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
