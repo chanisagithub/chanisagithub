@@ -9,9 +9,9 @@
 
 > **Category:** Reinforcement Learning
 
-> Q-learning estimates the value of taking actions in states.
+> Exploration lets agents try actions that may improve future rewards.
 
-_Last Updated: 02 October 2026_
+_Last Updated: 03 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
