@@ -9,9 +9,9 @@
 
 > **Category:** Reinforcement Learning
 
-> Exploration lets agents try actions that may improve future rewards.
+> Exploitation uses the best-known action based on current knowledge.
 
-_Last Updated: 03 October 2026_
+_Last Updated: 04 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
