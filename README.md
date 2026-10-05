@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Reinforcement Learning
+> **Category:** Generative AI
 
-> Exploitation uses the best-known action based on current knowledge.
+> Generative models create new content that resembles their training data.
 
-_Last Updated: 04 October 2026_
+_Last Updated: 05 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
