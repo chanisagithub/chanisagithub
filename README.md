@@ -9,9 +9,9 @@
 
 > **Category:** Generative AI
 
-> Generative models create new content that resembles their training data.
+> Diffusion models learn to reverse a gradual noise-adding process.
 
-_Last Updated: 05 October 2026_
+_Last Updated: 06 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
