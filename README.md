@@ -9,9 +9,9 @@
 
 > **Category:** Generative AI
 
-> Diffusion models learn to reverse a gradual noise-adding process.
+> GANs train a generator and discriminator in a competitive setup.
 
-_Last Updated: 06 October 2026_
+_Last Updated: 07 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
