@@ -9,9 +9,9 @@
 
 > **Category:** Generative AI
 
-> GANs train a generator and discriminator in a competitive setup.
+> Variational autoencoders learn compact latent representations for generation.
 
-_Last Updated: 07 October 2026_
+_Last Updated: 08 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
