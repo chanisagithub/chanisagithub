@@ -9,9 +9,9 @@
 
 > **Category:** Generative AI
 
-> Variational autoencoders learn compact latent representations for generation.
+> Prompt engineering shapes model output by changing instructions and context.
 
-_Last Updated: 08 October 2026_
+_Last Updated: 09 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
