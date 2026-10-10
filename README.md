@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Generative AI
+> **Category:** LLMs
 
-> Prompt engineering shapes model output by changing instructions and context.
+> Temperature controls how random a language model's sampling can be.
 
-_Last Updated: 09 October 2026_
+_Last Updated: 10 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
