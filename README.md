@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Temperature controls how random a language model's sampling can be.
+> Lower temperature usually makes generated text more predictable.
 
-_Last Updated: 10 October 2026_
+_Last Updated: 11 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
