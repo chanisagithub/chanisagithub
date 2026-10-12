@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Lower temperature usually makes generated text more predictable.
+> Higher temperature can produce more varied but less consistent text.
 
-_Last Updated: 11 October 2026_
+_Last Updated: 12 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
