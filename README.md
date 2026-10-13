@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Higher temperature can produce more varied but less consistent text.
+> Top-p sampling chooses from the smallest token set with enough probability mass.
 
-_Last Updated: 12 October 2026_
+_Last Updated: 13 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
