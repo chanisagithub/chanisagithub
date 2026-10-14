@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Top-p sampling chooses from the smallest token set with enough probability mass.
+> System instructions can define a model's role, constraints, and response style.
 
-_Last Updated: 13 October 2026_
+_Last Updated: 14 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
