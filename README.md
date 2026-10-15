@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> System instructions can define a model's role, constraints, and response style.
+> Few-shot prompting includes examples to demonstrate the desired pattern.
 
-_Last Updated: 14 October 2026_
+_Last Updated: 15 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
