@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Few-shot prompting includes examples to demonstrate the desired pattern.
+> Zero-shot prompting asks a model to perform a task without examples.
 
-_Last Updated: 15 October 2026_
+_Last Updated: 16 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
