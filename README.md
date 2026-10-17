@@ -9,9 +9,9 @@
 
 > **Category:** LLMs
 
-> Zero-shot prompting asks a model to perform a task without examples.
+> Embeddings represent text, images, or other data as numeric vectors.
 
-_Last Updated: 16 October 2026_
+_Last Updated: 17 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
