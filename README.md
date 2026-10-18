@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** LLMs
+> **Category:** Embeddings
 
-> Embeddings represent text, images, or other data as numeric vectors.
+> Cosine similarity compares vector direction rather than vector length.
 
-_Last Updated: 17 October 2026_
+_Last Updated: 18 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
