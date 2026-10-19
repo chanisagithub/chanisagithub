@@ -9,9 +9,9 @@
 
 > **Category:** Embeddings
 
-> Cosine similarity compares vector direction rather than vector length.
+> Vector search retrieves items with embeddings close to a query embedding.
 
-_Last Updated: 18 October 2026_
+_Last Updated: 19 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
