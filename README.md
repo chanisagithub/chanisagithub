@@ -9,9 +9,9 @@
 
 > **Category:** Embeddings
 
-> Semantic search can find related meanings even when exact words differ.
+> Clustering embeddings can reveal groups of similar documents or users.
 
-_Last Updated: 20 October 2026_
+_Last Updated: 21 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
