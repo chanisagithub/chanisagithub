@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Embeddings
+> **Category:** Retrieval
 
-> Clustering embeddings can reveal groups of similar documents or users.
+> Retrieval-augmented generation gives a model external context before answering.
 
-_Last Updated: 21 October 2026_
+_Last Updated: 22 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
