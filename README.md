@@ -9,9 +9,9 @@
 
 > **Category:** Retrieval
 
-> Retrieval-augmented generation gives a model external context before answering.
+> Chunking splits long documents into smaller pieces for retrieval.
 
-_Last Updated: 22 October 2026_
+_Last Updated: 23 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
