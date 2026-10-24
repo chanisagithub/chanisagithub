@@ -9,9 +9,9 @@
 
 > **Category:** Retrieval
 
-> Chunking splits long documents into smaller pieces for retrieval.
+> Reranking reorders retrieved results using a second scoring step.
 
-_Last Updated: 23 October 2026_
+_Last Updated: 24 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
