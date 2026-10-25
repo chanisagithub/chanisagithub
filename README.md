@@ -9,9 +9,9 @@
 
 > **Category:** Retrieval
 
-> Reranking reorders retrieved results using a second scoring step.
+> Hybrid search combines keyword matching with vector similarity.
 
-_Last Updated: 24 October 2026_
+_Last Updated: 25 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
