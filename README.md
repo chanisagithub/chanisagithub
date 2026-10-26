@@ -9,9 +9,9 @@
 
 > **Category:** Retrieval
 
-> Hybrid search combines keyword matching with vector similarity.
+> Grounding connects model responses to provided data or sources.
 
-_Last Updated: 25 October 2026_
+_Last Updated: 26 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
