@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Retrieval
+> **Category:** AI Safety
 
-> Grounding connects model responses to provided data or sources.
+> Hallucination is when a model produces unsupported or false information.
 
-_Last Updated: 26 October 2026_
+_Last Updated: 27 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
