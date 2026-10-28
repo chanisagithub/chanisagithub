@@ -9,9 +9,9 @@
 
 > **Category:** AI Safety
 
-> Hallucination is when a model produces unsupported or false information.
+> Alignment aims to make AI systems follow human goals and constraints.
 
-_Last Updated: 27 October 2026_
+_Last Updated: 28 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
