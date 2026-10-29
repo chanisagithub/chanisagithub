@@ -9,9 +9,9 @@
 
 > **Category:** AI Safety
 
-> Alignment aims to make AI systems follow human goals and constraints.
+> Red teaming tests systems by actively searching for failures and misuse paths.
 
-_Last Updated: 28 October 2026_
+_Last Updated: 29 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
