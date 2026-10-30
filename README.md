@@ -9,9 +9,9 @@
 
 > **Category:** AI Safety
 
-> Red teaming tests systems by actively searching for failures and misuse paths.
+> Guardrails add checks or constraints around model inputs and outputs.
 
-_Last Updated: 29 October 2026_
+_Last Updated: 30 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
