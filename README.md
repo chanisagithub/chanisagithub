@@ -9,9 +9,9 @@
 
 > **Category:** AI Safety
 
-> Guardrails add checks or constraints around model inputs and outputs.
+> Human-in-the-loop review keeps people involved in sensitive decisions.
 
-_Last Updated: 30 October 2026_
+_Last Updated: 31 October 2026_
 
 <!--END_SECTION:ai-fact-->
 
