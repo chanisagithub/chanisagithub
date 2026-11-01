@@ -9,9 +9,9 @@
 
 > **Category:** AI Safety
 
-> Human-in-the-loop review keeps people involved in sensitive decisions.
+> Model cards summarize intended use, limitations, and evaluation results.
 
-_Last Updated: 31 October 2026_
+_Last Updated: 01 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
