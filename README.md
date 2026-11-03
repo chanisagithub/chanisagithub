@@ -9,9 +9,9 @@
 
 > **Category:** AI Ethics
 
-> Bias in AI can reflect patterns and gaps present in training data.
+> Fairness metrics can disagree because different definitions optimize different goals.
 
-_Last Updated: 02 November 2026_
+_Last Updated: 03 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
