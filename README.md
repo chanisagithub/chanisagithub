@@ -9,9 +9,9 @@
 
 > **Category:** AI Ethics
 
-> Fairness metrics can disagree because different definitions optimize different goals.
+> Explainability helps people understand why a model made a prediction.
 
-_Last Updated: 03 November 2026_
+_Last Updated: 04 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
