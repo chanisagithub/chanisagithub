@@ -9,9 +9,9 @@
 
 > **Category:** AI Ethics
 
-> Explainability helps people understand why a model made a prediction.
+> Privacy-preserving machine learning reduces exposure of sensitive training data.
 
-_Last Updated: 04 November 2026_
+_Last Updated: 05 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
