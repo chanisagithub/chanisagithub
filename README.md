@@ -9,9 +9,9 @@
 
 > **Category:** AI Ethics
 
-> Privacy-preserving machine learning reduces exposure of sensitive training data.
+> Consent and data provenance matter when datasets include personal information.
 
-_Last Updated: 05 November 2026_
+_Last Updated: 06 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
