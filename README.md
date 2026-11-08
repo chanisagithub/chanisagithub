@@ -9,9 +9,9 @@
 
 > **Category:** Privacy
 
-> Differential privacy adds carefully calibrated noise to protect individual records.
+> Federated learning trains across devices or servers without centralizing raw data.
 
-_Last Updated: 07 November 2026_
+_Last Updated: 08 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
