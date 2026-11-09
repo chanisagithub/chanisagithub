@@ -9,9 +9,9 @@
 
 > **Category:** Privacy
 
-> Federated learning trains across devices or servers without centralizing raw data.
+> Membership inference attacks try to determine whether data was in training.
 
-_Last Updated: 08 November 2026_
+_Last Updated: 09 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
