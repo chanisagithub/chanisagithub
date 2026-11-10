@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Privacy
+> **Category:** Security
 
-> Membership inference attacks try to determine whether data was in training.
+> Prompt injection tries to override instructions by placing commands in input data.
 
-_Last Updated: 09 November 2026_
+_Last Updated: 10 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
