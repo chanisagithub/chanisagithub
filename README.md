@@ -9,9 +9,9 @@
 
 > **Category:** Security
 
-> Adversarial examples are inputs designed to fool a model.
+> Data poisoning attacks corrupt training data to influence model behavior.
 
-_Last Updated: 11 November 2026_
+_Last Updated: 12 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
