@@ -9,9 +9,9 @@
 
 > **Category:** Security
 
-> Model extraction attacks try to recreate a model by querying it.
+> Rate limits can reduce automated abuse of AI services.
 
-_Last Updated: 13 November 2026_
+_Last Updated: 14 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
