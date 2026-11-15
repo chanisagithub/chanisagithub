@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Security
+> **Category:** MLOps
 
-> Rate limits can reduce automated abuse of AI services.
+> MLOps applies software engineering practices to machine learning systems.
 
-_Last Updated: 14 November 2026_
+_Last Updated: 15 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
