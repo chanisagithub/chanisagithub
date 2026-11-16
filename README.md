@@ -9,9 +9,9 @@
 
 > **Category:** MLOps
 
-> MLOps applies software engineering practices to machine learning systems.
+> Model monitoring tracks performance after deployment.
 
-_Last Updated: 15 November 2026_
+_Last Updated: 16 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
