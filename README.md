@@ -9,9 +9,9 @@
 
 > **Category:** MLOps
 
-> Data drift occurs when production data changes from training data.
+> Concept drift occurs when the relationship between inputs and outputs changes.
 
-_Last Updated: 17 November 2026_
+_Last Updated: 18 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
