@@ -9,9 +9,9 @@
 
 > **Category:** MLOps
 
-> Feature stores manage reusable machine learning features for training and serving.
+> Model registries track versions, metadata, and deployment status.
 
-_Last Updated: 19 November 2026_
+_Last Updated: 20 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
