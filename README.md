@@ -9,9 +9,9 @@
 
 > **Category:** MLOps
 
-> Model registries track versions, metadata, and deployment status.
+> A/B tests compare model variants using live traffic or users.
 
-_Last Updated: 20 November 2026_
+_Last Updated: 21 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
