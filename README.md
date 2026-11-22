@@ -9,9 +9,9 @@
 
 > **Category:** MLOps
 
-> A/B tests compare model variants using live traffic or users.
+> Canary deployments expose a new model to a small traffic slice first.
 
-_Last Updated: 21 November 2026_
+_Last Updated: 22 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
