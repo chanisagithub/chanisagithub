@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** MLOps
+> **Category:** Data
 
-> Canary deployments expose a new model to a small traffic slice first.
+> Feature engineering transforms raw data into model-friendly inputs.
 
-_Last Updated: 22 November 2026_
+_Last Updated: 23 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
