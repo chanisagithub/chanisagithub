@@ -9,9 +9,9 @@
 
 > **Category:** Data
 
-> Categorical features often need encoding before many models can use them.
+> Normalization rescales values to make numeric features easier to compare.
 
-_Last Updated: 24 November 2026_
+_Last Updated: 25 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
