@@ -9,9 +9,9 @@
 
 > **Category:** Data
 
-> Normalization rescales values to make numeric features easier to compare.
+> Missing values can be imputed, modeled directly, or excluded depending on context.
 
-_Last Updated: 25 November 2026_
+_Last Updated: 26 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
