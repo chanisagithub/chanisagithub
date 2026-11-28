@@ -7,11 +7,11 @@
 
 ### 🧠 AI Insight
 
-> **Category:** Data
+> **Category:** Algorithms
 
-> Class imbalance can cause models to ignore rare but important outcomes.
+> Decision trees split data using feature rules that improve prediction purity.
 
-_Last Updated: 27 November 2026_
+_Last Updated: 28 November 2026_
 
 <!--END_SECTION:ai-fact-->
 
